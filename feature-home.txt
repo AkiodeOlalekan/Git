@@ -1,1 +1,2 @@
 feature home page
+This if the feature home paragraph
